@@ -3,7 +3,7 @@
 #### 7 Agosto - 18 Agosto Lun a Vier 7 - 10 pm
 
 1. Cómo funcionan las computadoras ? ✔️
-2. Algoritmos y diagramas de flujo
+2. Algoritmos y diagramas de flujo ✔️
 3. Scratch
 4. Lenguajes de programación, Python
 5. Condicionales
