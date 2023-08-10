@@ -4,7 +4,7 @@
 
 1. Cómo funcionan las computadoras ? ✔️
 2. Algoritmos y diagramas de flujo ✔️
-3. Scratch
+3. Scratch ✔️
 4. Lenguajes de programación, Python
 5. Condicionales
 6. Bucles y loops
