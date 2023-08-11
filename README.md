@@ -5,7 +5,7 @@
 1. Cómo funcionan las computadoras ? ✔️
 2. Algoritmos y diagramas de flujo ✔️
 3. Scratch ✔️
-4. Lenguajes de programación, Python
+4. Lenguajes de programación, Python https://replit.com/@alepaez-dev/clase1-1#main.py (falta)
 5. Condicionales
 6. Bucles y loops
 7. Arreglos, Arrays, Listas
